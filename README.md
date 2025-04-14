@@ -1,2 +1,2 @@
 # moyaki_ar
-https://tiggerland.github.io/moyaki_ar/
+https://rakkooo.github.io/moyaki_ar/
